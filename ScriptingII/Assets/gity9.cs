@@ -8,6 +8,7 @@ public class gity9 : MonoBehaviour
     void Start()
     {
         print("This is Gitty9");
+        print("Apply pressure");
     }
 
     // Update is called once per frame
