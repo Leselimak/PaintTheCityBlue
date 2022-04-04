@@ -7,7 +7,11 @@ public class gity9 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("This is Gitty9");
+        string Text = ("We dont know what that is");
+        string GittyNine= ("This is Gitty9");
+        print(GittyNine);
+
+        
     }
 
     // Update is called once per frame
